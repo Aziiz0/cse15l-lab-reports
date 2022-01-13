@@ -17,5 +17,14 @@
 * Grapes
 * Oranges
 
-![Image](https://media.istockphoto.com/photos/orange-picture-id185284489)
-> Example
+![Image](https://i5.walmartimages.com/asr/6ba3d69b-4c3e-4d74-b875-e565b7bab40f_2.4077a6a330f2ce5a08708847a6e011c0.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
+> Apple example
+
+```Java
+public static void main(String[] args) {
+    System.out.println("That's an apple^");
+}
+```
+|Apples|Grapes|Oranges|
+|-|-|-|
+|1|0|0|
