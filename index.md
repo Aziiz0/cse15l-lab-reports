@@ -28,5 +28,5 @@ public static void main(String[] args) {
 }
 ```
 |Apples|Grapes|Oranges|
-|-|-|-|
+|  -|-|-|
 |1|0|0|
