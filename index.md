@@ -1,11 +1,11 @@
 ## Heading
 
-[newFile](https://aziiz0.github.io/cse15l-lab-reports/newFile.md)
 ---
+[newFile](https://aziiz0.github.io/cse15l-lab-reports/newFile.md)
 
-**tests**
+**Testing**
 
-# Numbers
+### Numbers
 
 1. One
 2. Two
