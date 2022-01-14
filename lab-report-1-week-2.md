@@ -1,4 +1,4 @@
-# HOW TO LOG INTO A COURSE-SPECIFIC AACCOUNT ON IENG6
+# HOW TO LOG INTO A COURSE-SPECIFIC ACCOUNT ON IENG6
 
 ## Installing VScode
 1. Head to the website [Visual Studio Code](https://code.visualstudio.com/)
