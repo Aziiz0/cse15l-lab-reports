@@ -79,7 +79,7 @@ Let's say you want to move a file over from your local machine to the ssh machin
 Doesn't it get boring constantly having to input your password? Let's set up an SSH key so you no longer have that issue.
 
 Type out:
-
+    
     ssh-keygen
 
 >It will ask you certain questions, to default them just hit **[ENTER]**
@@ -105,13 +105,17 @@ Congrats!
 #### Just some useful tips and tricks. ####
 * Running commands on the ssh server from your local machine. To do this type:
 
+    ```
     ssh cs15lwi22@ieng6.ucsd.edu <command>
+    ```
 
 >Use your course specific account. This will output whatever command your ran without having to jup into your ssh machine and then run it.
 
 * Compiling and running code the same way. To do this type:
 
+    ```
     ssh cs15lwi22zz@ieng6.ucsd.edu "javac <file.java>; java <file.java>"
+    ```
 
 >This will both compile and run your code without having to enter your ssh machine.
 
