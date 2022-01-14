@@ -3,7 +3,7 @@
 ---
 [newFile](https://aziiz0.github.io/cse15l-lab-reports/newFile.md)
 
-[My Webpage](lab-report-1-week-2.md)
+[Lab Report 1](lab-report-1-week-2.md)
 
 **Testing**
 
