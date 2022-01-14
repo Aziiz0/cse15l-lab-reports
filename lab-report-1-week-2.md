@@ -3,7 +3,7 @@
 ## Installing VScode
 1. Head to the website [Visual Studio Code](https://code.visualstudio.com/)
 
-    ![Image](installVScode.png)
+    ![Image](InstallVScode.png)
 
 2. Proceed through installation
 3. Make sure you can open VScode and see this screen
@@ -60,7 +60,7 @@ There are some commands for a terminal that are important to learn. Here are the
 * vim <file>
 >A built in text editor within the terminal
 
-![Image](ommand.png)
+![Image](command.png)
 
 To exit the ```SSH``` terminal type **quit** or **[CTRL]+[D]**
 
