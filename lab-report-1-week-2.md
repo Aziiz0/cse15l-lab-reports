@@ -60,7 +60,7 @@ There are some commands for a terminal that are important to learn. Here are the
 * vim <file>
 >A built in text editor within the terminal
 
-![Image](ommand.png)
+![Image](command.png)
 
 To exit the ```SSH``` terminal type **quit** or **[CTRL]+[D]**
 
