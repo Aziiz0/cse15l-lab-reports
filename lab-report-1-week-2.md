@@ -9,6 +9,7 @@
 
     ![Image](InstalledVS.png)
 4. Congrats you're done!
+
 ---
 ## Remotely Connecting
 1. Install [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) through **PowerShell and follow the steps exactly**.
