@@ -4,10 +4,12 @@
 1. Head to the website [Visual Studio Code](https://code.visualstudio.com/)
 
     ![Image](installVS.png)
+
 2. Proceed through installation
 3. Make sure you can open VScode and see this screen
 
     ![Image](InstalledVS.png)
+
 4. Congrats you're done!
 
 ---
