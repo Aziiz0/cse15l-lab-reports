@@ -3,7 +3,7 @@
 ## Installing VScode
 1. Head to the website [Visual Studio Code](https://code.visualstudio.com/)
 
-    ![Image](installVScode.png)
+    ![Image](InstallVScode.png)
 
 2. Proceed through installation
 3. Make sure you can open VScode and see this screen
