@@ -17,7 +17,7 @@
 1. Install [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) through **PowerShell and follow the steps exactly**.
 2. Once done you will now be able to ```ssh``` into the CS lab machines
     
-    ### Utilizing SSH ###
+    ### Utilizing SSH
     Since we have VScode installed, you can use its built in terminal by pressing **[CTRL]+[`]**. To SSH simply type
     
          ssh cs15lwi22zz@ieng6.ucsd.edu
@@ -102,7 +102,7 @@ Congrats!
 
 ---
 ## Optimizing Remote Running
-#### Just some useful tips and tricks. ####
+#### Just some useful tips and tricks.
 * Running commands on the ssh server from your local machine. To do this type:
 
     ```
