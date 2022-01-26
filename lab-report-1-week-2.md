@@ -43,21 +43,29 @@
 ---
 ## Trying Some Commands
 There are some commands for a terminal that are important to learn. Here are the basics that can be used and their descriptions:
-* cd ~
+
+    cd ~
 >Takes you back to your home directory.
-* cd <directory>
+
+    cd <directory>
 >Allows you to traverse through directories.
-* cd ..
+    
+    cd ..
 >Used to move back directories.
-* ls -lat
+
+    ls -lat
 >Provides useful specifics of your current directories files.
-* ls -a
+
+    ls -a
 >Lists all files in current directory.
-* ls <directory>
+
+    ls <directory>
 >Will diplay the files within given directory.
-* cp <file> <directory>
+
+    cp <file> <directory>
 >Copies a file to a direcotry; try using -r to force a file copy.
-* vim <file>
+
+    vim <file>
 >A built in text editor within the terminal
 
 ![Image](command.png)
@@ -109,7 +117,7 @@ Congrats!
     ssh cs15lwi22@ieng6.ucsd.edu <command>
     ```
 
->Use your course specific account. This will output whatever command your ran without having to jup into your ssh machine and then run it.
+>Use your course specific account. This will output whatever command your ran without having to jump into your ssh machine and then run it.
 
 * Compiling and running code the same way. To do this type:
 
@@ -120,5 +128,20 @@ Congrats!
 >This will both compile and run your code without having to enter your ssh machine.
 
 ![Image](fast.png)
+
+### Comparing the TWO
+Without Optimizing:
+
+![Image](NotOptimized.png)
+
+>This took us 3 Keystrokes to go into our machine, compile the code, and run the code.
+
+With Optimizing:
+
+![Image](WithOptimize.png)
+
+>This took us only 1 Keystroke to go into our machine, compile the code, and run the code.
+
+As you can tell you can operate the terminal in a way to reduce keystrokes and lessen the worktime for coding/debugging.
 
 Fin! You're now all caught up and looking great!
