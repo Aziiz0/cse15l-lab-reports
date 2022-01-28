@@ -1,9 +1,10 @@
 ## Heading
 
 ---
-[newFile](https://aziiz0.github.io/cse15l-lab-reports/newFile.md)
 
 [Lab Report 1](lab-report-1-week-2.md)
+
+[Lab Report 2](https://aziiz0.github.io/cse15l-lab-reports/lab-report-2-week-4.md)
 
 **Testing**
 
