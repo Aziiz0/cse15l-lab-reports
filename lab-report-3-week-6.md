@@ -10,7 +10,7 @@
 
 ## Show the ssh command logging you into your account using just the alias you chose.:
 
-![Image](Lab-report-3-week-6/sshieng6.png)
+![Image](lab-report-3-week-6/sshieng6.png)
 
 >Finally I dont have to either spend the time typing out my full username and trying to remember what the exact strings were, or looking through the history to find the last time I ssh-ed to re-use the command.
 
@@ -18,6 +18,6 @@
 
 ## Show an scp command copying a file to your account using just the alias you chose.:
 
-![Image](Lab-report-3-week-6/scpieng6.png)
+![Image](lab-report-3-week-6/scpieng6.png)
 
 >I noticed that we cannot simply type in ```scp [file] ieng6``` to scp a file over to the server. You have to specify a path given with :~/ which is the home directory for the account. 
