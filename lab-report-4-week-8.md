@@ -2,7 +2,7 @@
 
 ## Markdown-Parse Repository links:
 - [My Repository](https://github.com/Aziiz0/markdown-parse-Fireflies)
-- [Reviewed Repository](https://github.com/mBookUCSD/markdown-parse)
+- [Reviewed Repository](https://github.com/Aziiz0/markdown-parse-Walkingsticks)
 
 ---
 
