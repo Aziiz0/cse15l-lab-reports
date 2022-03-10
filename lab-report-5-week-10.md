@@ -30,6 +30,9 @@
 >
 >       [Foo*bar\]]:my_(url) 'title (with parens)'
 >       [Foo*bar\]]
+>
 > which github.com was giving us the link ```[my_(url)]```.  Hence our output of ```[url]``` was almost correct.
+
 - ### For the implementation that’s not correct (or choose one if both are incorrect), describe the _bug (the problem in the code). You don’t have to provide a fix, but you should be specific about what is wrong with the program, and show the code that should be fixed.
+
 > I will be choosing 41.md the analyse. The output should have been no links. Our code was pretty linear so it grabbed what was inside the parenthesis without seeing ```&quot;tit&quot;``` as being some kindof formatting for quoting the string tilt. To fix this we could directly search for formats of these kinds. This could go after each collection of open parenthesis as a string to check weather ```&quot;``` is inside it. If so then we would not add the link to the list.
